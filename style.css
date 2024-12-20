@@ -1,0 +1,125 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1c1c1c;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+#dashboard {
+    background-color: #111;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+}
+
+#col-left {
+    width: 25%;
+    float: left;
+    padding-right: 20px;
+    border-right: 2px solid #444;
+    box-sizing: border-box;
+}
+
+#col-left ul {
+    list-style: none;
+    padding: 0;
+}
+
+#col-left li {
+    margin: 15px 0;
+    font-size: 18px;
+}
+
+#col-left a {
+    text-decoration: none;
+    color: #f4f4f4;
+    transition: color 0.3s ease-in-out;
+}
+
+#col-left a:hover {
+    color: #ff6f00;
+}
+
+#screen {
+    width: 70%;
+    float: left;
+    text-align: center;
+    padding-left: 20px;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+}
+
+#screen video {
+    width: 100%;
+    max-height: 100%;
+    border-radius: 10px;
+    border: 3px solid #444;
+}
+
+#text-bottom {
+    clear: both;
+    width: 100%;
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 1.8;
+    color: #f0f0f0;
+}
+
+#episode-text{
+    margin-top: 25px;
+}
+
+@media (max-width: 1024px) {
+    #col-left {
+        width: 100%;
+        margin-bottom: 20px;
+        border-right: none;
+    }
+
+    #screen {
+        width: 100%;
+        padding-left: 0;
+    }
+
+    #dashboard {
+        width: auto;
+        padding: 15px;
+    }
+
+    #screen video {
+        width: 100%;
+        max-width: 100%;
+        max-height: none;
+        border-radius: 5px;
+    }
+}
+
+@media (max-width: 768px) {
+    #col-left {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #screen {
+        padding-left: 0;
+    }
+
+    #dashboard {
+        width: auto;
+        padding: 10px;
+    }
+
+    #screen video {
+        width: 95%;
+        max-height: none;
+        border-radius: 5px;
+    }
+
+    #text-bottom {
+        font-size: 16px;
+        margin-top: 15px;
+    }
+}

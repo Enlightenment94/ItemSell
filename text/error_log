@@ -1,0 +1,41 @@
+[23-Nov-2024 21:03:42 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_dir() in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 32
+[23-Nov-2024 21:04:33 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_dir() in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 32
+[23-Nov-2024 21:04:59 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_dir() in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 32
+[23-Nov-2024 21:05:42 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_dir() in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 32
+[23-Nov-2024 21:06:38 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function wp_upload_dir() in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 32
+[23-Nov-2024 21:07:16 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 32
+[23-Nov-2024 21:09:41 Europe/Warsaw] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory_uri() in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 30
+[23-Nov-2024 21:27:21 Europe/Warsaw] PHP Warning:  Undefined array key "url" in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 2
+[23-Nov-2024 21:27:39 Europe/Warsaw] PHP Warning:  Undefined array key "url" in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 2
+[23-Nov-2024 21:31:04 Europe/Warsaw] PHP Warning:  Undefined array key "url" in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 31
+[23-Nov-2024 21:31:25 Europe/Warsaw] PHP Warning:  Undefined array key "url" in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 31
+[23-Nov-2024 21:31:29 Europe/Warsaw] PHP Warning:  Undefined array key "url" in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 31
+[23-Nov-2024 21:32:04 Europe/Warsaw] PHP Warning:  Undefined array key "url" in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 31
+[23-Nov-2024 21:36:22 Europe/Warsaw] PHP Warning:  Undefined variable $url in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 33
+[23-Nov-2024 21:38:06 Europe/Warsaw] PHP Warning:  Undefined variable $url in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 31
+[23-Nov-2024 21:38:06 Europe/Warsaw] PHP Warning:  Undefined variable $pos in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 31
+[23-Nov-2024 21:38:19 Europe/Warsaw] PHP Warning:  Undefined variable $url in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 31
+[23-Nov-2024 21:38:19 Europe/Warsaw] PHP Warning:  Undefined variable $pos in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 31
+[23-Nov-2024 21:38:42 Europe/Warsaw] PHP Warning:  Undefined variable $url in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 31
+[23-Nov-2024 21:38:42 Europe/Warsaw] PHP Warning:  Undefined variable $url in /home/p599816/public_html/wp/course/wp-content/themes/Enllearn/text/tx1.php on line 32
